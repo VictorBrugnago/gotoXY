@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1526070955 source:c:\users\joão 2084\documents\codeblocks projects\gotoxy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1386371378 c:\users\joão 2084\documents\codeblocks projects\gotoxy\conio2.h
+	<conio.h>
+	<windows.h>
+
